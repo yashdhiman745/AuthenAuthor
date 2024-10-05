@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "example"
+    },
+    {
+      "id": "1569",
+      "name": "YashD",
+      "email": "yash@gmail.com",
+      "password": "1233",
+      "city": "Dehradun"
+    },
+    {
+      "id": "e97c",
+      "name": "",
+      "email": "",
+      "password": "",
+      "city": ""
+    },
+    {
+      "id": "310b",
+      "name": "Akashy",
+      "email": "qspider@gmail.com",
+      "password": "asdf",
+      "city": "MP"
+    },
+    {
+      "id": "038a",
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "password": "fuck",
+      "city": "dehradun"
+    },
+    {
+      "id": "fa80",
+      "name": "Raman",
+      "email": "raman@g.com",
+      "password": "1233",
+      "city": "kannad"
+    },
+    {
+      "id": "c176",
+      "name": "Yash Dhiman",
+      "email": "yash@gmail.com",
+      "password": "12345",
+      "city": "Dehradun"
+    }
+  ]
+}
