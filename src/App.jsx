@@ -1,6 +1,5 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Edit from './Components/Edit'
 import Bar from './Components/Bar'
 import Signup from './Components/Signup'
 import "./App.css";
